@@ -7,7 +7,7 @@ Author: Ran Levi
 Version: 0.1
 
 The goal is to experiment with as many Daisy Pod features as possible.
-Version 0.1: Light a LED when pressing a button.
+Version 0.1: Light LED_1 when pressing the SW1 button.
 */
 
 using namespace daisy;
